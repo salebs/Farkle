@@ -1,6 +1,6 @@
-"
+"""
 This file allows multiple players to play against each other multiple times, while keeping track of the scores.
-"
+"""
 
 __AUTHOR__ = 'BEN'
 
